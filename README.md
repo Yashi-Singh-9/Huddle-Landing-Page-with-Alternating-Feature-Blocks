@@ -18,6 +18,8 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Style Guide](#style-guide)
+- [Contributing](#contributing)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -85,6 +87,14 @@ I plan to continue refining my CSS skills, especially in implementing advanced l
 
 - [CSS Tricks: Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This guide helped me understand Flexbox better, especially for responsive design.
 - [MDN Web Docs: HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - A comprehensive resource for understanding semantic HTML5 elements.
+
+## Style Guide
+
+For the Styles please refer to the [Style Guide file](style-guide.md)
+
+## Contributing
+
+For The Contribution please refer to [Contributing File](CONTRIBUTING.md)
 
 ## Author
 
