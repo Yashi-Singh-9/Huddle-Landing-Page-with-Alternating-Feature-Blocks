@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks solution
 
-![Gitlab license](https://img.shields.io/badge/license-MIT-blue)
+![Github license](https://img.shields.io/badge/license-MIT-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Huddle-Landing-Page-with-Alternating-Feature-Blocks)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a0cc02e-1aa8-40c0-aa1e-5acd4d340e9b/deploy-status)](https://app.netlify.com/sites/huddle-landing-page-alternating-yashi/deploys)
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Huddle Landing Page Solution](https://gitlab.com/Yashi-Singh-9/huddle-landing-page-with-alternating-feature-blocks.git)
+- Solution URL: [Huddle Landing Page Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-33PYgLaHGB)
 - Live Site URL: [Live Demo](https://huddle-landing-page-alternating-yashi.netlify.app)
 
 ## My process
